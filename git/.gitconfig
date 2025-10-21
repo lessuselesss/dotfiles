@@ -1,0 +1,19 @@
+[user]
+	name = lessuseless
+	email = your-email@example.com
+
+[core]
+	editor = vim
+
+[init]
+	defaultBranch = main
+
+[color]
+	ui = auto
+
+[alias]
+	st = status
+	co = checkout
+	br = branch
+	ci = commit
+	lg = log --oneline --graph --decorate
